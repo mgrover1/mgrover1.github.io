@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+This is a test of me changing stuff. 
 
 [Link to another page](./another-page.html).
 

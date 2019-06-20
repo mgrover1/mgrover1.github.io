@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: My First Month at Unidata
 image: /img/metpy.png
 ---

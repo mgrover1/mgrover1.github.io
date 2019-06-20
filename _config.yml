@@ -23,7 +23,7 @@ description: An overview of the all neat projects I am working on
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "More about me"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"

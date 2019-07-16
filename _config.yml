@@ -7,6 +7,7 @@
 url: "https://mgrover1.github.io"
 baseurl: ""
 
+theme: jekyll-theme-cayman
 # If you are building a GitHub project page then use these settings:
 #url: "http://mgrover1.github.io/projectname"
 #baseurl: "/projectname"

@@ -1,8 +1,5 @@
 # Meteorology Student | Aspiring Data Scientist
 
-I am a meteorology student interested in the intersection of meteorology and data
-science. I am currently a graduate student at the University of Illinois Urbana-Champaign working toward a Master Degree in Atmospheric Science.
-
 ## Internship and Work Experience
 **[Unidata Software Development Intern (May 2019 - August 2019)](unidata_work.md)** <br/>
 *University Corporation for Atmospheric Research (UCAR) | Boulder, Colorado* <br/>

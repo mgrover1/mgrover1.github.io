@@ -1,4 +1,4 @@
-## Unidata Summer Intern Program
+# Unidata Summer Intern Program
 
 ### METAR and Surface Map Project
 I worked with Ryan May on adding a METAR parser to the MetPy library. The reason

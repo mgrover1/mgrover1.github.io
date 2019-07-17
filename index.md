@@ -19,7 +19,11 @@
 - Coordinated with Eliott Foust from the National Center for Atmospheric Research (NCAR)
 - Finalized clusters are being implemented into the Numerical Weather Prediction class
 
-**[]
+**[Tornado Damage Path Detection Using Hyper-Spectral Imagery](uni_reu.md)** <br/>
+*Research Experience for Undergraduates | University of Northern Iowa | Cedar Falls, Iowa*
+- Interdisciplinary program focused on hyper-spectral imagery research applications
+- Participated in professional development workshops and visited USGS EROS station
+- Presented at the AMS Annual Meeting in Phoenix, Arizona
 
 # Education
 **University of Illinois Urbana-Champaign (Anticipated 2021)** <br/>

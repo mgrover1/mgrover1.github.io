@@ -4,7 +4,7 @@ I am a meteorology student interested in the intersection of meteorology and dat
 science. I am currently a graduate student at the University of Illinois Urbana-Champaign working toward a Master Degree in Atmospheric Science.
 
 ## Internship and Work Experience
-**Unidata Software Development Intern (May 2019 - August 2019)** <br/>
+**[Unidata Software Development Intern (May 2019 - August 2019)](unidata_work.md)** <br/>
 *University Corporation for Atmospheric Research (UCAR) | Boulder, Colorado* <br/>
 - Actively developed [MetPy](https://github.com/Unidata/MetPy), a Python library for Meteorology <br/>
 - Instructed faculty, students, and other professionals at the
@@ -27,8 +27,6 @@ science. I am currently a graduate student at the University of Illinois Urbana-
 [LinkedIn](https://www.linkedin.com/in/mgroverwx/) <br/>
 [Twitter](https://twitter.com/mgroverwx) <br/>
 [Facebook](https://www.facebook.com/maxi2312)
-
-### [a relative link](another_page.md)
 
 # Picture Format
 ![TEST](https://pbs.twimg.com/media/Dg3at4SV4AAPSJk.jpg)

@@ -1,12 +1,14 @@
 # Welcome to My Homepage
 
-I am a meteorology student interested in the intersection of meteorology and data science. I am currently a graduate student at the University of Illinois Urbana-Champaign working toward a Master Degree in Atmospheric Science.
+I am a meteorology student interested in the intersection of meteorology and data
+science. I am currently a graduate student at the University of Illinois Urbana-Champaign working toward a Master Degree in Atmospheric Science.
 
 ## Internship and Work Experience
 **Unidata Summer Intern (May 2019 - August 2019)** <br/>
 *University Corporation for Atmospheric Research (UCAR) | Boulder, Colorado* <br/>
 - Actively developed [MetPy](https://github.com/Unidata/MetPy), a Python library for Meteorology <br/>
-- Instructed faculty, students, and other professionals at the [Unidata Workshop in Albany, New York](https://unidata.github.io/python-workshop/events/albany2019.html) <br/><br/>
+- Instructed faculty, students, and other professionals at the
+[Unidata Workshop in Albany, New York](https://unidata.github.io/python-workshop/events/albany2019.html) <br/><br/>
 
 ## Education
 **University of Illinois Urbana-Champaign (Anticipated 2021)** <br/>

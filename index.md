@@ -7,6 +7,7 @@ I am a meteorology student interested in the intersection of meteorology and dat
 *Master of Science in Atmospheric Science* <br/>
 - Funded through [Relampago Field Campaign](https://sites.google.com/illinois.edu/relampago/home) <br/>
 - Advised by [Dr. Robert Jeffrey Trapp](https://www.atmos.illinois.edu/cms/One.aspx?portalId=127458&pageId=151980) <br/>
+
 **Valparaiso University (2015 - 2019)** <br/>
 *Bachelor of Science - Meterology Major - Mathematics Minor* <br/>
 - Dean's List <br/>

@@ -1,4 +1,3 @@
-# Meteorology Student | Aspiring Data Scientist
 ![Profile Picture](profile_pic.jpg)
 
 ## Internship and Work Experience

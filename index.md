@@ -23,7 +23,7 @@
 *Research Experience for Undergraduates | University of Northern Iowa | Cedar Falls, Iowa*
 - Interdisciplinary program focused on hyper-spectral imagery research applications
 - Participated in professional development workshops and visited USGS EROS station
-- Presented at the AMS Annual Meeting in Phoenix, Arizona
+- Presented at the AMS Annual Meeting in Phoenix, Arizona <br/>
 
 # Education
 **University of Illinois Urbana-Champaign (Anticipated 2021)** <br/>

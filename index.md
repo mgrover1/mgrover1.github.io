@@ -9,4 +9,4 @@ I am a meteorology student interested in the intersection of meteorology and dat
 
 ### [a relative link](another_page.md)
 
-![Poster Link](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjMsMPYhrvjAhXJZc0KHZ5jDUAQjRx6BAgBEAU&url=https%3A%2F%2Ftwitter.com%2Fmgroverwx&psig=AOvVaw3kseQSKo2o-Fnpy8ZshnVy&ust=1563421887930689)
+![](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjMsMPYhrvjAhXJZc0KHZ5jDUAQjRx6BAgBEAU&url=https%3A%2F%2Ftwitter.com%2Fmgroverwx&psig=AOvVaw3kseQSKo2o-Fnpy8ZshnVy&ust=1563421887930689)

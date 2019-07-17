@@ -8,7 +8,7 @@ science. I am currently a graduate student at the University of Illinois Urbana-
 *University Corporation for Atmospheric Research (UCAR) | Boulder, Colorado* <br/>
 - Actively developed [MetPy](https://github.com/Unidata/MetPy), a Python library for Meteorology <br/>
 - Instructed faculty, students, and other professionals at the
-[Unidata Workshop in Albany, New York](https://unidata.github.io/python-workshop/events/albany2019.html) <br/><br/>
+[Unidata Workshop in Albany, New York](https://unidata.github.io/python-workshop/events/albany2019.html) <br/>
 
 ## Education
 **University of Illinois Urbana-Champaign (Anticipated 2021)** <br/>

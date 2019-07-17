@@ -1,6 +1,6 @@
 ![Profile Picture](profile_pic.jpg)
 
-## Internship and Work Experience
+# Internship and Work Experience
 **[Unidata Software Development Intern (May 2019 - August 2019)](unidata_work.md)** <br/>
 *University Corporation for Atmospheric Research (UCAR) | Boulder, Colorado* <br/>
 - Actively developed [MetPy](https://github.com/Unidata/MetPy), a Python library for Meteorology <br/>
@@ -12,7 +12,16 @@
 - Created data workflow in Python for Indiana Dunes microclimate sensors
 - Finalized project through both a poster and virtual training sessions
 
-## Education
+# Research Projects
+**[Raspberry SCI: Inexpensive Parallel Computing for Meteorology](rasberry_sci.md)** <br/>
+*Funded by Valparaiso University Guild*
+- Worked with Dr. Nicholas Rosasco, Dr. Kevin Goebbert, and Terry Wade at Valpo
+- Coordinated with Eliott Foust from the National Center for Atmospheric Research (NCAR)
+- Finalized clusters are being implemented into the Numerical Weather Prediction class
+
+**[]
+
+# Education
 **University of Illinois Urbana-Champaign (Anticipated 2021)** <br/>
 *Master of Science in Atmospheric Science*
 - Funded through [Relampago Field Campaign](https://sites.google.com/illinois.edu/relampago/home) <br/>
@@ -24,7 +33,7 @@
 - Presidential Scholarship Based on Merit <br/>
 - Valpo Alumni Award <br/> <br/>
 
-#### Important Links
+## Important Links
 [LinkedIn](https://www.linkedin.com/in/mgroverwx/) <br/>
 [Twitter](https://twitter.com/mgroverwx) <br/>
 [Facebook](https://www.facebook.com/maxi2312)

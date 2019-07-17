@@ -25,7 +25,6 @@
 - Valpo Alumni Award <br/> <br/>
 
 #### Important Links
-[Github Page](https://github.com/mgrover1) <br/>
 [LinkedIn](https://www.linkedin.com/in/mgroverwx/) <br/>
 [Twitter](https://twitter.com/mgroverwx) <br/>
 [Facebook](https://www.facebook.com/maxi2312)

@@ -1,4 +1,5 @@
 # Meteorology Student | Aspiring Data Scientist
+![Profile Picture](profile_pic.jpg)
 
 ## Internship and Work Experience
 **[Unidata Software Development Intern (May 2019 - August 2019)](unidata_work.md)** <br/>

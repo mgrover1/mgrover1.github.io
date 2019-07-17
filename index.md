@@ -7,5 +7,4 @@ I am a meteorology student interested in the intersection of meteorology and dat
 [Twitter](https://twitter.com/mgroverwx) \
 [Facebook](https://www.facebook.com/maxi2312)
 
-### Test Another Page
-[a relative link](another_page.md)
+### [a relative link](another_page.md)

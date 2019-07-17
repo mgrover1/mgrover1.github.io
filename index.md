@@ -8,7 +8,7 @@
 [Unidata Workshop in Albany, New York](https://unidata.github.io/python-workshop/events/albany2019.html) <br/>
 
 **[Independent Student Contractor (August 2018 - August 2019)](microclimate.md)** <br/>
-*United States Geological Survey at the Lake Michigan Ecological Research Station (USGS) | Chesterton, Indiana*
+*United States Geological Survey (USGS) | Chesterton, Indiana*
 - Created data workflow in Python for Indiana Dunes microclimate sensors
 - Finalized project through both a poster and virtual training sessions
 

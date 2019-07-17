@@ -14,7 +14,7 @@
 
 # Research Projects
 **[Raspberry SCI: Inexpensive Parallel Computing for Meteorology](rasberry_sci.md)** <br/>
-*Funded by Valparaiso University Guild*
+*Funded by Valparaiso University Guild | Valparaiso, Indiana*
 - Worked with Dr. Nicholas Rosasco, Dr. Kevin Goebbert, and Terry Wade at Valpo
 - Coordinated with Eliott Foust from the National Center for Atmospheric Research (NCAR)
 - Finalized clusters are being implemented into the Numerical Weather Prediction class

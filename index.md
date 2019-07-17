@@ -8,14 +8,19 @@
 - Instructed faculty, students, and other professionals at the
 [Unidata Workshop in Albany, New York](https://unidata.github.io/python-workshop/events/albany2019.html) <br/>
 
+**[Independent Student Contractor (August 2018 - August 2019)](microclimate.md)** <br/>
+*United States Geological Survey at the Lake Michigan Ecological Research Station (USGS) | Chesterton, Indiana*
+- Created data workflow in Python for Indiana Dunes microclimate sensors
+- Finalized project through both a poster and virtual training sessions
+
 ## Education
 **University of Illinois Urbana-Champaign (Anticipated 2021)** <br/>
-*Master of Science in Atmospheric Science* <br/>
+*Master of Science in Atmospheric Science*
 - Funded through [Relampago Field Campaign](https://sites.google.com/illinois.edu/relampago/home) <br/>
 - Advised by [Dr. Robert Jeffrey Trapp](https://www.atmos.illinois.edu/cms/One.aspx?portalId=127458&pageId=151980) <br/> <br/>
 
 **Valparaiso University (2019)** <br/>
-*Bachelor of Science - Meterology Major - Mathematics Minor* <br/>
+*Bachelor of Science - Meterology Major - Mathematics Minor*
 - Dean's List <br/>
 - Presidential Scholarship Based on Merit <br/>
 - Valpo Alumni Award <br/> <br/>
@@ -25,6 +30,3 @@
 [LinkedIn](https://www.linkedin.com/in/mgroverwx/) <br/>
 [Twitter](https://twitter.com/mgroverwx) <br/>
 [Facebook](https://www.facebook.com/maxi2312)
-
-# Picture Format
-![TEST](https://pbs.twimg.com/media/Dg3at4SV4AAPSJk.jpg)

@@ -53,7 +53,9 @@
 - Served the community through volunteering at local soup kitchen
 - Coordinated recruitment efforts through planning events and contacting potential new members <br/>
 
-## Important Links
+### Social Networking
+
 [![twitter](social-1_logo-twitter.svg)](http://www.twitter.com/mgroverwx)
 [![facebook](social-1_logo-facebook.svg)](http://www.facebook.com/maxi2312)
 [![linkedin](social-1_logo-linkedin.svg)](https://www.linkedin.com/in/mgroverwx/)
+[![github](social-1_logo-github.svg)](htts://www.github.com/mgrover1/)

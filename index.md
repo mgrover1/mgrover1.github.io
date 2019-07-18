@@ -54,6 +54,14 @@
 - Coordinated recruitment efforts through planning events and contacting potential new members <br/>
 
 ## Important Links
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
+
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [5.1]: https://image.flaticon.com/icons/svg/34/34227.svg (linkedin icon with padding)

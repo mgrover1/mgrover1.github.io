@@ -58,4 +58,4 @@
 [![twitter](social-1_logo-twitter.svg)](http://www.twitter.com/mgroverwx)
 [![facebook](social-1_logo-facebook.svg)](http://www.facebook.com/maxi2312)
 [![linkedin](social-1_logo-linkedin.svg)](https://www.linkedin.com/in/mgroverwx/)
-[![github](social-1_logo-github.svg)](htts://www.github.com/mgrover1/)
+[![github](social-1_logo-github.svg)](https://github.com/mgrover1)

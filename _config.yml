@@ -1,3 +1,5 @@
 theme: jekyll-theme-architect
 title: Max Grover
 description: Aspiring Weather Data Scientist
+# Google Analytics
+google_analytics: UA-144088358-1

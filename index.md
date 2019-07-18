@@ -55,6 +55,6 @@
 
 ## Important Links
 
-[![twitter](https://shkspr.mobi/blog/wp-content/uploads/2017/10/Twitter-Logo.png =50x)](http://www.twitter.com/mgroverwx)
-[![facebook](https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-03-512.png =50x)](http://www.facebook.com/maxi2312)
-[![linkedin](http://www.approachpeople.com/wp-content/uploads/2012/08/LinkedIn_IN_Icon_5inCMYK1.jpg =50x)](https://www.linkedin.com/in/mgroverwx/)
+[![twitter](social-1_logo-twitter.svg)](http://www.twitter.com/mgroverwx)
+[![facebook](social-1_logo-facebook.svg)](http://www.facebook.com/maxi2312)
+[![linkedin](social-1_logo-linkedin.svg)](https://www.linkedin.com/in/mgroverwx/)

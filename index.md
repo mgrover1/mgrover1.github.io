@@ -57,14 +57,11 @@
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
 [![alt text][5.1]][5]
-[![alt text][6.1]][6]
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[5.1]: https://image.flaticon.com/icons/svg/34/34227.svg (linkedin icon with padding)
+[1.1]: https://shkspr.mobi/blog/wp-content/uploads/2017/10/Twitter-Logo.png (twitter icon with padding)
+[2.1]: https://cdn2.iconfinder.com/data/icons/popular-social-media-flat/48/Popular_Social_Media-03-512.png (facebook icon with padding)
+[5.1]: http://www.approachpeople.com/wp-content/uploads/2012/08/LinkedIn_IN_Icon_5inCMYK1.jpg (linkedin icon with padding)
 
 [1]: http://www.twitter.com/mgroverwx
 [2]: http://www.facebook.com/maxi2312

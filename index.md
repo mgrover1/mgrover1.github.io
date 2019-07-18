@@ -54,6 +54,10 @@
 - Coordinated recruitment efforts through planning events and contacting potential new members <br/>
 
 ## Important Links
-[LinkedIn](https://www.linkedin.com/in/mgroverwx/) <br/>
-[Twitter](https://twitter.com/mgroverwx) <br/>
-[Facebook](https://www.facebook.com/maxi2312)
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[5.1]: https://image.flaticon.com/icons/svg/34/34227.svg (linkedin icon with padding)
+
+[1]: http://www.twitter.com/mgroverwx
+[2]: http://www.facebook.com/maxi2312
+[5]: https://www.linkedin.com/in/mgroverwx/

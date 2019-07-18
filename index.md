@@ -38,17 +38,17 @@
 - Valpo Alumni Award <br/> <br/>
 
 # Memberships and Honors
-**American Meteorological Society (2015 - Present)**
+**American Meteorological Society (2015 - Present)** <br/>
 *Northwest Indiana Local Chapter | Valparaiso, Indiana*
 - Attended 2018 and 2019 AMS Annual Meeting
 - Participated in Great Lakes Meteorology Conference <br/> <br/>
 
-**Chi Epsilon Pi Meteorology Honor Society (2017 - 2019)**
+**Chi Epsilon Pi Meteorology Honor Society (2017 - 2019)** <br/>
 *Valparaiso University | Valparaiso, Indiana*
 - Volunteered for outreach events in local community
 - Mentored new students in the meteorology program
 
-**Lambda Chi Alpha Fraternity (2016 - 2019)**
+**Lambda Chi Alpha Fraternity (2016 - 2019)** <br/>
 *Iota Sigma Zeta - Valparaiso University | Valparaiso, Indiana*
 - Served the community through volunteering at local soup kitchen
 - Coordinated recruitment efforts through planning events and contacting potential new members <br/>

@@ -4,7 +4,7 @@
 **[Research Assistant (May 2019 - August 2019)](climate_project.md)** <br/>
 *University of Illinois Urbana-Champaign | Champaign, Illinois* <br/>
 - Analyze climate change impacts on hazardous weather <br/>
-- Characterize severe storms in the Southern Hemisphere through observational data collected from the RELAMPAGO field campaign [RELAMPAGO](https://sites.google.com/illinois.edu/relampago/home) <br/>
+- Characterize severe storms in the Southern Hemisphere through observational data collected from the [RELAMPAGO](https://sites.google.com/illinois.edu/relampago/home) field campaign <br/>
 
 **[Unidata Software Development Intern (May 2019 - August 2019)](unidata_work.md)** <br/>
 *University Corporation for Atmospheric Research (UCAR) | Boulder, Colorado* <br/>

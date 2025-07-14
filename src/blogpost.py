@@ -52,22 +52,22 @@ posts = posts.sort_values("date", ascending=False)
 
 # Generate an RSS feed
 fg = FeedGenerator()
-fg.id("http://blog.mgrover.dev")
+fg.id("http://mgrover1.github.io")
 fg.title("Max Grover's blog")
 fg.author({"name": "Max Grover", "email": "mgroverwx@gmail.com"})
 fg.link(href="http://blog.mgrover.dev", rel="alternate")
 fg.logo("http://blog.mgrover.dev/_static/profile.jpeg")
 fg.subtitle("Max's personal blog!")
-fg.link(href="http://blog.mgrover.dev/rss.xml", rel="self")
+fg.link(href="http://mgrover1.github.io/rss.xml", rel="self")
 fg.language("en")
 
 # Add all my posts to it
 for ix, irow in posts.iterrows():
     fe = fg.add_entry()
-    fe.id(f"http://blog.mgrover.dev/{irow['path']}")
+    fe.id(f"http://mgrover1.github.io/{irow['path']}")
     fe.published(irow["date"])
     fe.title(irow["title"])
-    fe.link(href=f"http://blog.mgrover.dev/{irow['path']}")
+    fe.link(href=f"http://mgrover1.github.io/{irow['path']}")
     fe.content(content=irow["content"])
 
 # Write an RSS feed with latest posts

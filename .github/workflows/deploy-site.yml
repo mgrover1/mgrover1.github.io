@@ -42,7 +42,7 @@ jobs:
     #     cp rss.xml _build/html/rss.xml
 
     # If we've pushed to main, push the book's HTML to github-pages
-    - if: ${{ github.ref == 'refs/heads/main' }}
+    - if: ${{ github.ref == 'refs/heads/master' }}
       name: GitHub Pages action
       uses: peaceiris/actions-gh-pages@v3.9.0
       with:

@@ -28,7 +28,7 @@ project:
     - file: talks.md
     - file: workshops.md
     - file: media.md
-    - file: blog.md
+    - file: blogging.md
       children:
       - title: "2025"
         children:
